@@ -1,0 +1,15 @@
+table{
+	border-style:solid;
+}
+
+th,td{
+	border-style:solid;
+}
+
+label{
+  border-style:solid;
+  border-width:2px;
+  border-color:grey;
+  display:block;
+  padding:10px;
+}
